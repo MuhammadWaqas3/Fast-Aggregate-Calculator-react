@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fast-Aggregate-Calculator-react/static/css/main.866ee8e2.css",
+    "main.js": "/Fast-Aggregate-Calculator-react/static/js/main.53fd6b82.js",
+    "index.html": "/Fast-Aggregate-Calculator-react/index.html",
+    "main.866ee8e2.css.map": "/Fast-Aggregate-Calculator-react/static/css/main.866ee8e2.css.map",
+    "main.53fd6b82.js.map": "/Fast-Aggregate-Calculator-react/static/js/main.53fd6b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866ee8e2.css",
+    "static/js/main.53fd6b82.js"
+  ]
+}
