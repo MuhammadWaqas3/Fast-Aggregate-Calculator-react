@@ -1,0 +1,35 @@
+.subject{
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input{
+
+
+    align-items: center;
+}
+
+
+.buttone{
+
+background-color: rgb(255, 217, 0);
+    padding: 0.5rem 1rem;
+        margin: 1% 1%;
+}
+
+.buttone:hover{
+
+    background-color: rgb(190, 190, 2);
+}
+.a{
+
+    margin:0 1%;
+}
+
+
+
+
+
